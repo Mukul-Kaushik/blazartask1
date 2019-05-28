@@ -1,0 +1,20 @@
+div{
+	text-align: center;
+	float: left;
+	width: 33%;
+	height: 100%;
+	border: 2px solid black;
+	border-radius: 10px;
+}
+div:hover{
+	background-color: yellow;
+}
+.div1{
+	background-color: red;
+}
+.div2{
+	background-color: green;
+}
+.div3{
+	background-color: blue;
+}
